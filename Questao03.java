@@ -11,7 +11,7 @@ public class Questao03 {
         System.out.print("Digite o nome: ");
         String nome = scan.next();
 
-        System.out.print("Digite o sobrenome: ");
+        System.out.print("Digite o seu sobrenome: ");
         String sobrenome = scan.next();
 
         if (sobrenome.equals("Wayne")) {
